@@ -5,7 +5,7 @@ Contributors: Yong Wu, Daniel Sharkov, Hongyu Zhao
 
 ---
 # Introduction
-
+![Image for test simulation](documents/test_simulation.jpg)
 
 ---
 # How to run?
